@@ -1,1 +1,2 @@
-# aws-ocr
+# ocr engine development   
+## pytesseract, easyocr
